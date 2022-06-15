@@ -1,0 +1,37 @@
+.page-container {
+  background-color: #282d35;
+  width: 550px;
+  height: 550px;
+}
+.page-content {
+  width: 550px;
+  height: 459px;
+  background-image: url(../../public/media/logo-big.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.page-content-title {
+  font-weight: 700;
+  font-size: 39.06px;
+  color: white;
+  padding: 57px 99px 20px 27px;
+}
+
+.page-content-text {
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  padding-left: 33px;
+}
+
+ul {
+  width: 390px;
+}
+li {
+  color: #61dafb;
+  margin-bottom: 20px;
+}
+span {
+  color: white;
+  font-size: 16px;
+}

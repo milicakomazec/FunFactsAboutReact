@@ -1,0 +1,35 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+.header-wrapper {
+  display: flex;
+  background-color: #21222a;
+  width: 550px;
+  height: 91px;
+  align-items: center;
+  padding: 0 26px;
+  justify-content: space-between;
+}
+
+.header-logo-text {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-text-left {
+  color: #61dafb;
+  /* padding: 7px; */
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+.header-text-right {
+  color: aquamarine;
+  /* margin-left: auto; */
+
+  color: #deebf8;
+  font-weight: 600;
+  font-size: 16px;
+}
